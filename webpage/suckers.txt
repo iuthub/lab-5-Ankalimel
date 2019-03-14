@@ -1,0 +1,3 @@
+Uzumaki Naruto;MF;333;Visa 
+Sasuke Uchiha;MB;28;MasterCard 
+Neji Hyuga;MG;1111;MasterCard 
